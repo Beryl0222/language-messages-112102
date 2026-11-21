@@ -56,5 +56,13 @@
     "revision": "r4",
     "applies_to": "group_count==0",
     "text": "{primary}, follow {guide} to {room} on your own. Other guests, wait here."
+  },
+  {
+    "id": "V9",
+    "message_id": "guide-7",
+    "locale": "en",
+    "revision": "r5",
+    "text": "{honorific} {primary} and your {group_count} companion(s), follow {guide} to {room}. Other guests, wait here.",
+    "applies_to": "有经本人同意的身份称呼"
   }
 ]
