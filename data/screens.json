@@ -1,0 +1,52 @@
+[
+  {
+    "id": "S1",
+    "device": "入口窄屏",
+    "max_columns": {
+      "zh": 55,
+      "en": 90
+    },
+    "required_keys": [
+      "primary",
+      "guide",
+      "room",
+      "group_count"
+    ],
+    "waiting_ref": "guide-8",
+    "previous_delivery": {
+      "guide-7": {
+        "zh": "r1",
+        "en": "r1"
+      }
+    }
+  },
+  {
+    "id": "S2",
+    "device": "展厅大屏",
+    "max_columns": {
+      "zh": 105,
+      "en": 180
+    },
+    "required_keys": [
+      "primary",
+      "guide",
+      "room",
+      "group_count"
+    ],
+    "waiting_ref": "guide-8",
+    "previous_delivery": {
+      "guide-7": {
+        "zh": "r1",
+        "en": "r1"
+      }
+    }
+  },
+  {
+    "id": "S3",
+    "kind": "field_rules",
+    "group_count": "同行者数，不含被领队者本人。零是一个人，无其他同行者。",
+    "primary": "来宾可同意显示音译，或只显示自选名",
+    "guide": "实际领队，写身份是工作人员可选惯例",
+    "room": "设备里登记的志愿者引导点，未经确认不替换"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "V1",
+    "message_id": "guide-7",
+    "locale": "zh",
+    "revision": "r1",
+    "text": "请 {primary} 和同组的 {group_count} 位同行者跟 {guide} 往 {room}。其余来宾请留在这里。"
+  },
+  {
+    "id": "V2",
+    "message_id": "guide-7",
+    "locale": "en",
+    "revision": "r1",
+    "text": "{guide}, please join {primary} and {group_count} other guest(s) at {room}. Everyone else stays here."
+  },
+  {
+    "id": "V3",
+    "message_id": "guide-7",
+    "locale": "en",
+    "revision": "r2",
+    "text": "{primary}, follow {guide} to {room} with your party of {group_count}. All remaining guests, stay here."
+  },
+  {
+    "id": "V4",
+    "message_id": "guide-7",
+    "locale": "en",
+    "revision": "r3",
+    "text": "{primary} and your {group_count} companion(s), follow {guide} to {room}. Other guests, wait here."
+  },
+  {
+    "id": "V5",
+    "message_id": "guide-7",
+    "locale": "zh",
+    "revision": "r2",
+    "text": "{primary} 一行随 {guide} 到 {room}，其他人留在这里。",
+    "role_hint": "一行是否可以只含一人，请校对。"
+  },
+  {
+    "id": "V6",
+    "message_id": "guide-8",
+    "locale": "zh",
+    "revision": "r1",
+    "text": "等候的来宾可向总台咨询。"
+  },
+  {
+    "id": "V7",
+    "message_id": "guide-8",
+    "locale": "en",
+    "revision": "r1",
+    "text": "Waiting guests may ask at the help desk."
+  },
+  {
+    "id": "V8",
+    "message_id": "guide-7",
+    "locale": "en",
+    "revision": "r4",
+    "applies_to": "group_count==0",
+    "text": "{primary}, follow {guide} to {room} on your own. Other guests, wait here."
+  }
+]

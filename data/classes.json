@@ -1,0 +1,52 @@
+[
+  {
+    "id": "R1",
+    "visit_class": "solo",
+    "device": "S1",
+    "data": {
+      "primary": "乌兰",
+      "guide": "曾老师",
+      "room": "北厅",
+      "group_count": 0,
+      "honorific": null
+    }
+  },
+  {
+    "id": "R2",
+    "visit_class": "party",
+    "device": "S2",
+    "data": {
+      "primary": "Raden Amarta de Lontar",
+      "guide": "Wei Lim",
+      "room": "Water Garden",
+      "group_count": 2,
+      "honorific": null
+    }
+  },
+  {
+    "id": "R3",
+    "visit_class": "closed-name",
+    "from": "晚班",
+    "device": "S1",
+    "data": {
+      "primary": "Anggrek Arum Cahaya",
+      "guide": "Ivana",
+      "room": "东南交流厅第七角",
+      "group_count": 1,
+      "honorific": null,
+      "permitted_public_name": "Arum"
+    }
+  },
+  {
+    "id": "R4",
+    "visit_class": "party",
+    "device": "S1",
+    "data": {
+      "primary": "Dara",
+      "guide": "那娅老师",
+      "room": "地方城市口述文本资料展来宾活动入口",
+      "group_count": 3,
+      "honorific": null
+    }
+  }
+]
